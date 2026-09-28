@@ -25,9 +25,9 @@
 
 | # | Nombre completo | Cédula | Correo institucional | Rol |
 |---|-----------------|--------|----------------------|-----|
-| 1 | [Nombre 1] | [Cédula 1] | [correo1]@udea.edu.co | Líder / Desarrollador |
-| 2 | [Nombre 2] | [Cédula 2] | [correo2]@udea.edu.co | Desarrollador Backend |
-| 3 | [Nombre 3] | [Cédula 3] | [correo3]@udea.edu.co | QA / Validaciones |
+| 1 | [erika hernandez galvan] | [1014244005] | [erika.hernandezg]@udea.edu.co | Líder / Desarrollador |
+| 2 | [yanidi yoela arrieta requeme] | [1001159651] | [yoela.arrieta]@udea.edu.co | Desarrollador Backend |
+| 3 | [darci vanessa londoño ortiz] | [1001617038] | [dvanessa.londono]@udea.edu.co | QA / Validaciones |
 | 4 | [Nombre 4] | [Cédula 4] | [correo4]@udea.edu.co | Documentación |
 
 ---
@@ -36,17 +36,17 @@
 
 Todos los integrantes pertenecemos al programa de **Ingeniería Industrial** de la Universidad de Antioquia.
 
-### [Nombre 1] — Líder del proyecto
+### [erika hernandez galvan] — Líder del proyecto
 - **Programa:** Ingeniería Industrial
 - **Habilidades:** Liderazgo, Python, Git/GitHub, gestión de proyectos.
 - **Fortalezas:** Organización, comunicación asertiva, resolución de conflictos.
 
-### [Nombre 2] — Desarrollador Backend
+### [yanidi yoela arrieta requeme] — Desarrollador Backend
 - **Programa:** Ingeniería Industrial
 - **Habilidades:** Python, manejo de archivos, estructuras de datos.
 - **Fortalezas:** Pensamiento lógico, atención al detalle.
 
-### [Nombre 3] — QA / Validaciones
+### [darci vannesa londoño ortiz] — QA / Validaciones
 - **Programa:** Ingeniería Industrial
 - **Habilidades:** Expresiones regulares, testing, Python.
 - **Fortalezas:** Rigurosidad, análisis de errores.
@@ -56,17 +56,13 @@ Todos los integrantes pertenecemos al programa de **Ingeniería Industrial** de 
 - **Habilidades:** Redacción técnica, Markdown, LaTeX.
 - **Fortalezas:** Claridad, síntesis, ortografía.
 
-### [Nombre 5] — Analista Power BI
-- **Programa:** Ingeniería Industrial
-- **Habilidades:** Power BI, DAX, Excel, análisis de datos.
-- **Fortalezas:** Visualización de datos, interpretación de KPIs.
 
 ---
 
 ## 3. 🏷️ Nombre del Proyecto y Detalles
 
 ### Nombre
-**HuellaVet**
+**HuellaVetPQR**
 
 ### Eslogan
 *"Cuidamos sus huellas, gestionamos sus voces"*
